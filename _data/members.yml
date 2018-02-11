@@ -1,0 +1,25 @@
+# Members
+
+- name: 
+  role: 
+  img: 
+  github: 
+  gplus: 
+  bio:  
+  url: 
+  visible: true
+   
+- name: 
+  role:
+  img: 
+  github: 
+  bio: 
+  url: 
+  visible: true
+  
+- name: 
+  role: 
+  img: 
+  bio: 
+  url: 
+  visible: false
