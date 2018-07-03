@@ -13,6 +13,18 @@ category:
 Write Test --> Test Fails --> Write Code --> Test Passes --> Refactor <--> Write Teste ....
 ```
 
+¿Qué son las pruebas unitarias?
+
+Una prueba unitaria básicamente es la prueba de la menor parte probable de un
+programa.
+
+Pero, ¿qué quiere decir?
+
+Si programa en un lenguaje que admite paradígata funcional, por ejemplo, la
+parte más baja de su código debe ser una función. Entonces una prueba unitaria
+sería la prueba de cualquier función. En el caso de orientación a objetos sería
+la prueba de un método de su objeto.
+
 Python tiene una biblioteca incorporada para pruebas unitarias
 [unittest](https://docs.python.org/3/library/unittest.html). El objetivo de
 este post será crear una función para comprobar si hay dígito **0,1,2,3,4,5,6,7,9**
