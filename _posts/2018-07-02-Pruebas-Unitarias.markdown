@@ -12,7 +12,6 @@ category:
 ```
 Write Test --> Test Fails --> Write Code --> Test Passes --> Refactor <--> Write Teste ....
 ```
-
 ¿Qué son las pruebas unitarias?
 
 Una prueba unitaria básicamente es la prueba de la menor parte probable de un
@@ -197,7 +196,7 @@ FAILED (failures=1)
 ``` 
 
 Y la salida mejoró, ahora está volviendo una falta, entonces concertamos
-todos los errores de semántica del código ahora realment la aserción
+todos los errores de semántica del código ahora realmente la aserción
 está fallando.
 
 {% highlight python %}
