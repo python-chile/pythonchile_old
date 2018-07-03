@@ -281,5 +281,5 @@ Ran 2 tests in 0.000s
 OK
 ```
 
-Perfecto, tenemos una función que cheque si hay dígito o no en una determinada.
-y en el caso de que se produzca un error.
+Perfecto, tenemos una función que cheque si hay dígito o no en una determinada
+frase, cubierta de pruebas y creada con TDD.
