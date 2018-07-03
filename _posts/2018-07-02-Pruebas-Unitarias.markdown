@@ -13,7 +13,7 @@ category:
 Write Test --> Test Fails --> Write Code --> Test Passes --> Refactor <--> Write Teste ....
 ```
 
-El python tiene una biblioteca incorporada para pruebas unitarias
+Python tiene una biblioteca incorporada para pruebas unitarias
 [unittest](https://docs.python.org/3/library/unittest.html). El objetivo de
 este post será crear una función para comprobar si hay dígito **0,1,2,3,4,5,6,7,9**
 en una determinada frase, en caso afirmativo retorna verdadero si no falso.
