@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      Pruebas unitarias en el Python
+title:      Pruebas unitarias en Python
 author:     murilobsd
 github:		murilobsd
 tags: 		pruebas python2 python3
-subtitle:   pruebas unitarias en el python en la práctica  
+subtitle:   pruebas unitarias en python en la práctica  
 category:   
 ---
 <!-- Start Writing Below in Markdown -->
@@ -19,7 +19,7 @@ programa.
 
 Pero, ¿qué quiere decir?
 
-Si programa en un lenguaje que admite paradígata funcional, por ejemplo, la
+Si programa en un lenguaje que admite paradigma funcional, por ejemplo, la
 parte más baja de su código debe ser una función. Entonces una prueba unitaria
 sería la prueba de cualquier función. En el caso de orientación a objetos sería
 la prueba de un método de su objeto.
