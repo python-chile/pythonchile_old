@@ -1,20 +1,24 @@
 ---
 layout: page
 title: "Grupos"
-description: ""
+description: "Grupos locales de Python en Chile"
 header-img: "img/home-bg.jpg"
 ---
 
 
 ## Grupos locales de Python en Chile
-Estos son algunos de los grupos relacionados con Python en Chile. Si conocen algún otro, por favor agregarlo mediante un pull request o comentar en el canal de slack del sitio para que lo agreguemos.
+La comunidad Python Chile quiere fomentar la colaboración entre grupos y comunidades locales de Python, por lo que si conoces algún grupo que no esté listado aquí, por favor agregarlo mediante pull request o comentar en slack para que lo agreguemos.
+
+### Generales
+[Python Chile - Programadores](https://www.facebook.com/groups/pythonchileprogramadores)
 
 
 ### I Región
-- [PySquad](https://www.facebook.com/pysquadarica/) - Comunidad
+- [PySquad](https://www.facebook.com/pysquadarica/)
 
 ### V Región
 - [Python Valparaiso y Viña del Mar](https://www.facebook.com/groups/1451630415108163/)
+- [Meetups Python Valparaiso y Viña del Mar](https://www.meetup.com/es-ES/Python-Valparaiso-y-Vina-del-Mar/)
 
 
 ### Región Metropolitana
