@@ -9,8 +9,9 @@ header-img: "img/home-bg.jpg"
 ## Grupos locales de Python en Chile
 La comunidad Python Chile quiere fomentar la colaboración entre grupos y comunidades locales de Python, por lo que si conoces algún grupo que no esté listado aquí, por favor agregarlo mediante pull request o comentar en slack para que lo agreguemos.
 
-### Generales
-[Python Chile - Programadores](https://www.facebook.com/groups/pythonchileprogramadores)
+### General
+- [Python Chile - Programadores](https://www.facebook.com/groups/pythonchileprogramadores)
+- [Slack Python Chile](https://join.slack.com/t/python-chile/shared_invite/enQtMjczMjM1OTkxNjAwLTRmMmI5NDE3Yjg1MWYwYmRhMTIxNGNmODcwYWRmYTUwMmE2NWI0MjM0YmE3NzhhMTcyYWIzOWE2ZGNlMzM4ZjY)
 
 
 ### I Región
