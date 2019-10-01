@@ -17,7 +17,8 @@ github_username:  python-chile
 project_repository: pythonchile.cl
 disqus_shortname: python-chile
 facebook_username : groups/pythonchileprogramadores
-slack_username : 
+linkedin_username : groups/4929519/
+slack_username :
 slack_invitacion: https://join.slack.com/t/python-chile/shared_invite/enQtMjczMjM1OTkxNjAwLTRmMmI5NDE3Yjg1MWYwYmRhMTIxNGNmODcwYWRmYTUwMmE2NWI0MjM0YmE3NzhhMTcyYWIzOWE2ZGNlMzM4ZjY
 g-analytics: UA-113857044-1
 altmetric: true
@@ -63,7 +64,7 @@ prose:
         field:
           element: "text"
           label: "Project"
-          value: ""           
+          value: ""
     _posts:
       - name: "subtitle"
         field:
@@ -105,7 +106,7 @@ prose:
         field:
           element: "text"
           label: "Project"
-          value: ""    
+          value: ""
       - name: "horizontal"
         field:
           element: "hidden"
@@ -129,13 +130,13 @@ prose:
             - name: "Blood"
               value: "blood"
             - name: "Moon"
-              value: "moon"          
+              value: "moon"
             - name: "Night"
               value: "night"
             - name: "Sky"
               value: "sky"
             - name: "Solarized"
-              value: "solarized"             
+              value: "solarized"
       - name: "trans"
         field:
           element: "select"
@@ -147,13 +148,13 @@ prose:
             - name: "Page"
               value: "page"
             - name: "Concave"
-              value: "concave"          
+              value: "concave"
             - name: "Linear"
               value: "linear"
             - name: "Fade"
               value: "fade"
             - name: "None"
-              value: "none"             
+              value: "none"
       - name: "visualworkflow"
         field:
           element: "checkbox"
