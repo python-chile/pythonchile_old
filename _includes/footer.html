@@ -78,7 +78,7 @@
                             </span>
                         </a>
                     </li>
-                    {% endif %}				
+                    {% endif %}
                     {% if site.slack_invitacion %}
                     <li>
                         <a href="{{site.slack_invitacion}}" target="_blank">
@@ -90,7 +90,7 @@
                     </li>
                     {% endif %}
                 </ul>
-                <p class="copyright text-muted"> Copyright © Python-chile 2018</a>
+                <p class="copyright text-muted"> Copyright © Python-chile {{ site.time | date: '%Y' }}</a>
             </div>
         </div>
     </div>
