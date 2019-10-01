@@ -10,9 +10,9 @@ header-img: "img/home-bg.jpg"
 La comunidad Python Chile quiere fomentar la colaboración entre grupos y comunidades locales de Python, por lo que si conoces algún grupo que no esté listado aquí, por favor agregarlo mediante pull request o comentar en slack para que lo agreguemos.
 
 ### Comunidad Nacional
-- [Python Chile - Programadores](https://www.facebook.com/groups/pythonchileprogramadores)
+- [Facebook Python Chile - Programadores](https://www.facebook.com/groups/pythonchileprogramadores)
 - [Slack Python Chile](https://join.slack.com/t/python-chile/shared_invite/enQtMjczMjM1OTkxNjAwLTRmMmI5NDE3Yjg1MWYwYmRhMTIxNGNmODcwYWRmYTUwMmE2NWI0MjM0YmE3NzhhMTcyYWIzOWE2ZGNlMzM4ZjY)
-
+- [Linkedin Python Chile](https://www.linkedin.com/groups/4929519/)
 
 ### XV Región
 - [PySquad](https://www.facebook.com/pysquadarica/)
@@ -23,6 +23,7 @@ La comunidad Python Chile quiere fomentar la colaboración entre grupos y comuni
 
 
 ### Región Metropolitana
+- [Meetups Analytics & Python](https://www.meetup.com/es-ES/Analytics-y-Python)
 - [Meetups santiago.py](https://www.meetup.com/es-ES/santiago-py)
 - [Meetups Python Chile](https://www.meetup.com/es-ES/python-chile)
 - [Django Girls Santiago](https://www.facebook.com/djangogirlssantiago/)
