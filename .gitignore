@@ -1,5 +1,6 @@
 _site
 node_modules
-Gemfile*
+Gemfile.lock
 .DS_Store
 *.swp
+.jekyll-cache/
