@@ -78,7 +78,7 @@
                             </span>
                         </a>
                     </li>
-                    {% endif %}				
+                    {% endif %}
                     {% if site.slack_invitacion %}
                     <li>
                         <a href="{{site.slack_invitacion}}" target="_blank">
@@ -89,8 +89,19 @@
                         </a>
                     </li>
                     {% endif %}
+
+                    {% if site.linkedin_username %}
+                    <li>
+                        <a href="https://www.linkedin.com/{{ site.linkedin_username }}" target="_blank">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}
                 </ul>
-                <p class="copyright text-muted"> Copyright © Python-chile 2018</a>
+                <p class="copyright text-muted"> Copyright © Python-chile {{ site.time | date: '%Y' }}</a>
             </div>
         </div>
     </div>
