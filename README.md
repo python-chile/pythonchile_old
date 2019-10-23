@@ -15,7 +15,7 @@ Project Pages is Jekyll Template specifically geared towards collaborative scien
 `git clone https://github.com/python-chile/pythonchile.cl`
 2. Ingresa en el repositorio, ejecuta el seguiente comando. 
 `cd pythonchile.cl`   
-`bundler install`
+`bundle install`
 
 3. Ahora ve al directorio del repositorio en tu PC y ejecuta este comando.
 `bundle exec jekyll serve`
